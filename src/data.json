@@ -1,0 +1,57 @@
+{
+    "Products" : [{
+        "_id": "Phone1",
+        "title": "iPhone 11 pro",
+        "image": "/images/phone1.jpg",
+        "descripion":"about phone 1",
+        "price": 1200,
+        "availableColors": ["Black" , "White"],
+        "company":"Apple"
+        },
+    {
+        "_id": "Phone2",
+        "title": "Samsung Galaxy S21 Ultra",
+        "image": "/images/phone2.jpg",
+        "descripion":"about phone 2",
+        "price": 1075,
+        "availableColors": ["Black" , "White"],
+        "company": "Samsung"
+        },
+    {
+        "_id": "Phone3",
+        "title": "One Plus 9 Pro",
+        "image": "/images/phone3.jpg",
+        "descripion":"about phone 3",
+        "price": 900,
+        "availableColors": ["Black" , "White"],
+        "company":"One Plus"
+    },
+    {
+        "_id": "Phone4",
+        "title": "Realme 9 Pro",
+        "image": "/images/phone4.jpg",
+        "descripion":"about phone 4",
+        "price": 300,
+        "availableColors": ["Black" , "White"],
+        "company":"Real Me"
+    },
+    {
+        "_id": "Phone5",
+        "title": "Huwai P30",
+        "image": "/images/phone5.jpg",
+        "descripion":"about phone 5",
+        "price": 1025,
+        "availableColors": ["Black" , "White"],
+        "company":"Huwai"
+    },
+    {
+        "_id": "Phone6",
+        "title": "Samsung M31s ",
+        "image": "/images/phone6.jpg",
+        "descripion":"about phone 6",
+        "price": 400,
+        "availableColors": ["Black" , "White"],
+        "company":"Samsung"
+    }]
+}
+
